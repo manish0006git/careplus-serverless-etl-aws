@@ -1,0 +1,10 @@
+.env
+.aws/
+*.pem
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+!sample-data/*.csv
+*.sql.gz
+*.bak
